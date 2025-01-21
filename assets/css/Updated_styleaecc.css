@@ -1,0 +1,103 @@
+/* General Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'DmSans-Regular', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+/* General Layout */
+.element {
+  display: flex;
+  justify-content: center;
+  background-color: #f9f9f9;
+}
+
+.overlap-wrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.rectangle {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+/* Section Text */
+.density-based,
+.urban-heat-island,
+.building-energy,
+.construction,
+.historical-site {
+  font-size: 20px;
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+span {
+  font-weight: 600;
+  color: #000;
+}
+
+.text-wrapper-3 {
+  font-style: italic;
+  color: #555;
+}
+
+/* Image Styling */
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Specific Sections */
+.rt-feature,
+.body-hvac-system,
+.construction-waste,
+.master {
+  max-width: 90%;
+  height: auto;
+}
+
+.smart-buildings-in,
+.lendlease-used,
+.machu-picchu {
+  text-align: center;
+  font-size: 18px;
+  color: #444;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+/* Highlighted Features */
+.frame-3 {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  color: #444;
+  margin-bottom: 20px;
+}
+
+.density-based span,
+.urban-heat-island span,
+.building-energy span,
+.construction span,
+.historical-site span {
+  text-decoration: underline;
+  color: #007acc;
+}

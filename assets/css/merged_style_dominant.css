@@ -1,0 +1,514 @@
+/* Styles from lezant.css */
+.frame-19,
+.frame-19 * {
+    box-sizing: border-box;
+}
+
+.frame-19 {
+    background: #f3f3f3;
+    height: 150px; /* Reduced height for the rectangle */
+    position: relative;
+    overflow: visible; /* Allow content to extend beyond the rectangle */
+}
+
+.dbscan-is-a-density-based-clustering-algorithm-that-groups-together-points-that-are-closely-packed-and-marks-points-in-low-density-regions-as-outliers {
+    z-index: 10; /* Ensure it appears above other elements */
+    position: absolute;
+    color: var(--main-black, #181717);
+    text-align: left;
+    right: 10.97%;
+    left: 12.78%;
+    width: 76.25%;
+    top: 300px; /* Adjust to position the text within the rectangle */
+    height: auto; /* Allow dynamic height for the text content */
+}
+
+.dbscan-is-a-density-based-clustering-algorithm-that-groups-together-points-that-are-closely-packed-and-marks-points-in-low-density-regions-as-outliers-span {
+    color: var(--main-black, #181717);
+    font-family: var(--heading-2-font-family, 'DmSans-Regular', sans-serif);
+    font-size: var(--heading-2-font-size, 24px);
+    line-height: var(--heading-2-line-height, 117%);
+    letter-spacing: var(--heading-2-letter-spacing, -0.03em);
+    font-weight: var(--heading-2-font-weight, 400);
+}
+
+.dbscan-is-a-density-based-clustering-algorithm-that-groups-together-points-that-are-closely-packed-and-marks-points-in-low-density-regions-as-outliers-span2 {
+    color: var(--main-black, #181717);
+    font-family: var(--body-font-family, 'Inter-Regular', sans-serif);
+    font-size: var(--body-font-size, 18px);
+    line-height: var(--body-line-height, 121.5%);
+    letter-spacing: var(--body-letter-spacing, -0.03em);
+    font-weight: var(--body-font-weight, 400);
+}
+
+.rectangle-3 {
+    background: #f1f1f1;
+    border-style: solid;
+    border-color: rgba(80, 75, 75, 0.10);
+    border-width: 1px;
+    width: 1458px;
+    height: 69px;
+    position: absolute;
+    left: -9px;
+    top: 75px;
+}
+
+.frame-13 {
+    background: #f1f1f1;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: rgba(80, 75, 75, 0.43);
+    border-width: 1px;
+    padding: 22px 32px 22px 32px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 366px;
+    height: 70px;
+    position: absolute;
+    left: 550px;
+    top: 75px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.learn {
+    color: var(--main-gray, rgba(96, 96, 96, 0.40));
+    text-align: center;
+    font-family: var(--heading-2-font-family, 'DmSans-Regular', sans-serif);
+    font-size: var(--heading-2-font-size, 24px);
+    line-height: var(--heading-2-line-height, 117%);
+    letter-spacing: var(--heading-2-letter-spacing, -0.03em);
+    font-weight: var(--heading-2-font-weight, 400);
+    position: absolute;
+    left: 510px;
+    top: 75px;
+    width: 445px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+/* Styles from style.css (dominant) */
+.element {
+  background-color: #f3f3f3;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element .div {
+  background-color: #f3f3f3;
+  height: 11068px;
+  position: relative;
+  width: 1440px;
+}
+
+.element .overlap {
+  background-color: #ffffff;
+  height: 10694px;
+  left: 0;
+  position: absolute;
+  top: 374px;
+  width: 1440px;
+}
+
+.element .group {
+  height: 521px;
+  left: 0;
+  position: absolute;
+  top: 208px;
+  width: 1438px;
+}
+
+.element .img {
+  height: 739px;
+  left: 0;
+  position: absolute;
+  top: 941px;
+  width: 1440px;
+}
+
+.element .overlap-group {
+  height: 750px;
+  left: 0;
+  position: absolute;
+  top: 1850px;
+  width: 1440px;
+}
+
+.element .group-2 {
+  height: 706px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 1440px;
+}
+
+.element .now-in-this-example {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 585px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 370px;
+}
+
+.element .text-wrapper {
+  font-weight: 500;
+}
+
+.element .span {
+  font-weight: 900;
+}
+
+.element .group-3 {
+  height: 688px;
+  left: 0;
+  position: absolute;
+  top: 2860px;
+  width: 1440px;
+}
+
+.element .group-4 {
+  height: 722px;
+  left: 0;
+  position: absolute;
+  top: 3769px;
+  width: 1440px;
+}
+
+.element .group-5 {
+  height: 611px;
+  left: 0;
+  position: absolute;
+  top: 4758px;
+  width: 1440px;
+}
+
+.element .overlap-2 {
+  height: 725px;
+  left: 0;
+  position: absolute;
+  top: 5522px;
+  width: 1439px;
+}
+
+.element .group-6 {
+  height: 705px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 1439px;
+}
+
+.element .now-we-randomly-pick {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 544px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 370px;
+}
+
+.element .text-wrapper-2 {
+  color: #000000;
+  font-weight: 500;
+}
+
+.element .text-wrapper-3 {
+  color: #fe2066;
+  font-weight: 900;
+}
+
+.element .group-7 {
+  height: 653px;
+  left: 0;
+  position: absolute;
+  top: 6472px;
+  width: 1434px;
+}
+
+.element .group-8 {
+  height: 682px;
+  left: 0;
+  position: absolute;
+  top: 7321px;
+  width: 1440px;
+}
+
+.element .group-9 {
+  height: 597px;
+  left: 1px;
+  position: absolute;
+  top: 8285px;
+  width: 1439px;
+}
+
+.element .group-10 {
+  height: 640px;
+  left: 0;
+  position: absolute;
+  top: 9098px;
+  width: 1440px;
+}
+
+.element .for-example-if-we {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 613px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 143px;
+  width: 240px;
+}
+
+.element .then-we-can-see-that {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 554px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 841px;
+  width: 450px;
+}
+
+.element .text-wrapper-4 {
+  color: #ff56c4;
+  font-weight: 700;
+}
+
+.element .text-wrapper-5 {
+  color: #000000;
+  font-weight: 700;
+}
+
+.element .p {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 535px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2687px;
+  width: 370px;
+}
+
+.element .these-points-are {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 535px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3651px;
+  width: 383px;
+}
+
+.element .text-wrapper-6 {
+  color: #000000;
+  font-weight: 900;
+}
+
+.element .text-wrapper-7 {
+  color: #ff8bd6;
+  font-weight: 800;
+}
+
+.element .ultimately-we-can {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 513px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4566px;
+  width: 401px;
+}
+
+.element .text-wrapper-8 {
+  color: #fe2066;
+  font-weight: 800;
+}
+
+.element .text-wrapper-9 {
+  color: #9a9a9a;
+  font-weight: 800;
+}
+
+.element .all-of-the-core {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 535px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6389px;
+  width: 370px;
+}
+
+.element .text-wrapper-10 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 529px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7220px;
+  width: 370px;
+}
+
+.element .we-add-all-of-the {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 174px;
+  left: 529px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8056px;
+  width: 410px;
+}
+
+.element .text-wrapper-11 {
+  color: #000000;
+  font-weight: 800;
+}
+
+.element .text-wrapper-12 {
+  color: #9a9a9a;
+  font-weight: 900;
+}
+
+.element .text-wrapper-13 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 569px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8948px;
+  width: 370px;
+}
+
+.element .frame {
+  height: 30px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.element .DBSCAN-is-a-density {
+  color: var(--main-black);
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 184px;
+  letter-spacing: -0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 228px;
+  width: 1098px;
+}
+
+.element .text-wrapper-14 {
+  font-family: var(--heading-2-font-family);
+  font-size: var(--heading-2-font-size);
+  font-style: var(--heading-2-font-style);
+  font-weight: var(--heading-2-font-weight);
+  letter-spacing: var(--heading-2-letter-spacing);
+  line-height: var(--heading-2-line-height);
+}
+
+.element .text-wrapper-15 {
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+}
+
+.element .overlap-group-2 {
+  height: 89px;
+  left: -9px;
+  position: absolute;
+  top: 71px;
+  width: 1458px;
+}
+
+.element .rectangle {
+  background-color: #f1f1f1;
+  border: 1px solid;
+  border-color: #504b4b1a;
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 1458px;
+}
+
+.element .frame-2 {
+  background-color: #f0f0f0;
+  border: 1px solid;
+  border-color: #504a4a6e;
+  border-radius: 8px;
+  height: 70px;
+  left: 559px;
+  position: absolute;
+  top: 4px;
+  width: 366px;
+}
+
+.element .text-wrapper-16 {
+  color: var(--main-gray);
+  font-family: var(--heading-2-font-family);
+  font-size: var(--heading-2-font-size);
+  font-style: var(--heading-2-font-style);
+  font-weight: var(--heading-2-font-weight);
+  height: 70px;
+  left: 519px;
+  letter-spacing: var(--heading-2-letter-spacing);
+  line-height: var(--heading-2-line-height);
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 445px;
+}
+
